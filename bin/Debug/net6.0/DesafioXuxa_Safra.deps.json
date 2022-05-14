@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesafioXuxa_Safra/1.0.0": {
+        "runtime": {
+          "DesafioXuxa_Safra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioXuxa_Safra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
